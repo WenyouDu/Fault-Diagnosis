@@ -3,6 +3,7 @@
   1. first Add all folders and subfolders to the working directory
   2. second run Demo_***Dataset.m
 ## Original intention：
+
   1、For beginner: 想了解数据驱动的故障诊断这一研究方向的科研人员，快速入门，了解现有方法。
   2、For researcher: 为新方法的研究提供对比方法基准、数据基准，避免重复工作，提高对比结果的科学性和可信度。
   3、For non-specialist: 非故障诊断研究领域人员快速上手、快速验证能否适用于自己要解决的问题。
