@@ -22,4 +22,4 @@
 1. FastICA 工具箱：[1] Hyvärinen A.Independent component analysis: recent advances[J].Philosophical transactions. Series A, Mathematical, physical, and engineering sciences,2013, 371 (1984): 20110534.
 2. LibSVM3.22工具箱：[2] Chang C C, Lin C J.LIBSVM: A library for support vector machines[J].ACM Trans. Intell. Syst. Technol.,2011, 2 (3): 1-27.
 ## Author list:  
-该工具箱由沈阳航空航天大学自动化学院故障诊断课题组开发，该版本开发成员：杜文友、杨俊培、张浩然、王乙臣、翟广宇。  数据驱动的故障诊断这一研究领域优秀成果众多，限于作者能力，在经过多年学习后也仅仅了解了一些基础方法，仅供后来学者参考。工具箱中代码难免有错误和疏漏之处，欢迎碰巧打开此文档的您不吝提出宝贵的意见和建议（邮箱：wen-you.du@sau.edu.cn）。 
+该工具箱由沈阳航空航天大学自动化学院故障诊断课题组开发，该版本开发成员：杜文友、杨峻培、张浩然、王乙臣、翟广宇。  数据驱动的故障诊断这一研究领域优秀成果众多，限于作者能力，在经过多年学习后也仅仅了解了一些基础方法，仅供后来学者参考。工具箱中代码难免有错误和疏漏之处，欢迎碰巧打开此文档的您不吝提出宝贵的意见和建议（邮箱：wen-you.du@sau.edu.cn）。 
